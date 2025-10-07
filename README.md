@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Naik</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+<h3 align="center">A passionate IT engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-naik&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-naik" /> </p>
 
